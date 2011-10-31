@@ -49,11 +49,11 @@ Fast Start
 
 There are three files in the dist directory
 
-[AzureRunMe.cspkg](./blob/master/dist/AzureRunMe18.cspkg) - The package file, ready to upload and use.
+"dist/AzureRunMe.cspkg" - The package file, ready to upload and use.
 
-[ServiceConfiguration.cscfg](./blob/master/dist/ServiceConfiguration18.cscfg) - The configuration file - you'll need to edit this with your various credentials.
+"dist/ServiceConfiguration.cscfg" - The configuration file - you'll need to edit this with your various credentials.
 
-[AzureRunMe RDP.pfx](./blob/master/dist/AzureRunMe RDP.pfx) - A sample certificate that you can use for RDP **
+"dist/AzureRunMe RDP.pfx" - A sample certificate that you can use for RDP **
 
 Upload the certificate (password is tiger123!)
 
